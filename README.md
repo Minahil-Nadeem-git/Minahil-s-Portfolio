@@ -29,9 +29,6 @@ Through programming exercises, assignments, and collaboration with classmates, I
 10. [Looking Forward to the CE Journey](#-looking-forward-to-the-ce-journey)
 
 
-**Description:**  
-My first semester reflections and portfolio as a Computer Engineering student, documenting learning experiences, challenges, and personal growth.
-
 ---
 
 ## 1️⃣ My First Step into Computer Engineering
