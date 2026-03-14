@@ -85,5 +85,4 @@ My first semester reflections and portfolio as a Computer Engineering student, d
 
 ---
 
-### ✅ Notes for Teacher
-This portfolio reflects my **first semester journey** in Computer Engineering. It highlights my **learning experiences, challenges, and personal growth**, and provides insight into how I am preparing for future semesters.
+
