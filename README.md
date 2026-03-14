@@ -1,6 +1,20 @@
-Author: Minahil Nadeem 
-Program: Computer Engineering  
-Semester: 1st Semester  
+# 🖥️ My Computer Engineering Journey – First Semester
+
+## 👋 Introduction
+
+Hello! I am a Second‑semester Computer Engineering student.  
+This portfolio contains reflections about my learning journey during my first semester.  
+It highlights the challenges I faced, the skills I started developing, and my goals for the future in the field of computing.
+
+Through programming exercises, assignments, and collaboration with classmates, I began to understand how engineers approach problem solving and technology.
+
+## 📌 About Me 
+
+**Name:** Minahil Nadeem   
+**Program:** Computer Engineering  
+**Semester:** 2nd Semester  
+**Course:** Portfolio   
+ 
 
 ## 📑 Table of Contents
 1. [My First Step into Computer Engineering](#1️⃣-my-first-step-into-computer-engineering)
@@ -14,9 +28,8 @@ Semester: 1st Semester
 9. [Small Wins That Motivated Me](#9️⃣-small-wins-that-motivated-me)
 10. [Looking Forward to the CE Journey](#-looking-forward-to-the-ce-journey)
 
-# 🖥️ My Computer Engineering Journey – First Semester
 
-**Repository Description:**  
+**Description:**  
 My first semester reflections and portfolio as a Computer Engineering student, documenting learning experiences, challenges, and personal growth.
 
 ---
