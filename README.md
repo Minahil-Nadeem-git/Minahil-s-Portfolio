@@ -1,3 +1,19 @@
+Author: Minahil Nadeem 
+Program: Computer Engineering  
+Semester: 1st Semester  
+
+## 📑 Table of Contents
+1. [My First Step into Computer Engineering](#1️⃣-my-first-step-into-computer-engineering)
+2. [Learning to Code for the First Time](#2️⃣-learning-to-code-for-the-first-time)
+3. [The World of Computers Opened Up](#3️⃣-the-world-of-computers-opened-up)
+4. [Math in Computer Engineering](#4️⃣-math-in-computer-engineering)
+5. [Group Projects and Teamwork](#5️⃣-group-projects-and-teamwork)
+6. [Managing Time Between Classes and Labs](#6️⃣-managing-time-between-classes-and-labs)
+7. [Facing My First Programming Challenges](#7️⃣-facing-my-first-programming-challenges)
+8. [Discovering My Learning Style](#8️⃣-discovering-my-learning-style)
+9. [Small Wins That Motivated Me](#9️⃣-small-wins-that-motivated-me)
+10. [Looking Forward to the CE Journey](#-looking-forward-to-the-ce-journey)
+
 # 🖥️ My Computer Engineering Journey – First Semester
 
 **Repository Description:**  
