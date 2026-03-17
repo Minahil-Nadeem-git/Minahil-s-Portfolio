@@ -2,113 +2,109 @@
 
 ## 👋 Introduction
 
-Hello! I am a Second‑semester Computer Engineering student.  
-This portfolio contains reflections about my learning journey during my first semester.  
-It highlights the challenges I faced, the skills I started developing, and my goals for the future in the field of computing.
+Hello! I am a second-semester Computer Engineering student.
+This portfolio presents my learning journey during my first semester, with a strong focus on Programming Fundamentals (PF) and Database Systems (DBS).
 
-Through programming exercises, assignments, and collaboration with classmates, I began to understand how engineers approach problem solving and technology.
+These courses helped me develop core technical skills such as logical thinking, problem-solving, and understanding how data is structured and managed. Alongside academics, I also experienced personal growth and adapted to university life at UET Faisalabad.
 
 ## 📌 About Me 
 
 **Name:** Minahil Nadeem   
 **Program:** Computer Engineering  
 **Semester:** 2nd Semester  
-**Course:** Portfolio   
  
 
 ## 📑 Table of Contents
-1. [My First Step into Computer Engineering](#1️⃣-my-first-step-into-computer-engineering)
-2. [Learning to Code for the First Time](#2️⃣-learning-to-code-for-the-first-time)
-3. [The World of Computers Opened Up](#3️⃣-the-world-of-computers-opened-up)
-4. [Math in Computer Engineering](#4️⃣-math-in-computer-engineering)
-5. [Group Projects and Teamwork](#5️⃣-group-projects-and-teamwork)
-6. [Managing Time Between Classes and Labs](#6️⃣-managing-time-between-classes-and-labs)
-7. [Facing My First Programming Challenges](#7️⃣-facing-my-first-programming-challenges)
-8. [Discovering My Learning Style](#8️⃣-discovering-my-learning-style)
-9. [Small Wins That Motivated Me](#9️⃣-small-wins-that-motivated-me)
-10. [Looking Forward to the CE Journey](#-looking-forward-to-the-ce-journey)
-
+1. [My First Step into PF and DBS](#1️⃣-my-first-step-into-pf-and-dbs)
+2. [Learning Programming Fundamentals](#2️⃣-learning-programming-fundamentals)
+3. [Introduction to Database Systems](#3️⃣-introduction-to-database-systems)
+4. [Problem Solving Through PF](#4️⃣-problem-solving-through-pf)
+5. [Understanding Data Through DBS](#5️⃣-understanding-data-through-dbs)
+6. [Balancing PF Labs and University Life](#6️⃣-balancing-pf-labs-and-university-life)
+7. [Challenges in PF and DBS](#7️⃣-challenges-in-pf-and-dbs)
+8. [Growth in Technical Skills](#8️⃣growth-in-technical-skills)
+9. [Motivation Through Small Achievements](#9️⃣-motivation-through-small-achievements)
+10. [Future Goals in PF and DBS](#-future-goals-in-pf-and-dbs)
 
 ---
 
-## 1️⃣ My First Step into Computer Engineering
+## 1️⃣ My First Step into PF and DBS
 **Reflections:**  
-- Understanding what CE really is  
-- Adapting to university life and schedules  
-- Feeling excited about learning new technologies  
+- I was introduced to Programming Fundamentals, where I learned how programming is used to solve real-world problems
+- In Database Systems, I understood how data is stored in an organized way using tables.
+- I also adapted to university life at UET Faisalabad and learned how to manage my academic routine.
 
 ---
 
-## 2️⃣ Learning to Code for the First Time
+## 2️⃣ Learning Programming Fundamentals
 **Reflections:**  
-- Writing my first programs in Python/C/Java  
-- Struggling with syntax and errors  
-- Experiencing the joy when code finally runs  
+- Learned key concepts such as variables, loops, conditional statements, and functions.
+- Practiced writing basic programs in the lab and improved coding skills step by step.
+- Understood how theoretical concepts are applied practically during lab sessions. 
 
 ---
 
-## 3️⃣ The World of Computers Opened Up
+## 3️⃣ Introduction to Database Systems
 **Reflections:**  
-- Learning computer hardware basics  
-- Understanding software vs hardware  
-- Realizing how computers solve problems  
+- Learned fundamental concepts like databases, tables, and relationships.
+- Understood primary keys and how they uniquely identify records.
+- Realized the importance of databases in applications like websites and apps. 
 
 ---
 
-## 4️⃣ Math in Computer Engineering
+## 4️⃣ Problem Solving Through PF
 **Reflections:**  
-- Applying math in programming and problem solving  
-- Learning logical thinking through exercises  
-- Seeing how theory connects with practical examples  
+- Developed logical thinking by solving programming problems.  
+- Learned debugging techniques to identify and fix errors in code.  
+- Applied problem-solving skills in other subjects as well.  
 
 ---
 
-## 5️⃣ Group Projects and Teamwork
+## 5️⃣ Understanding Data Through DBS
 **Reflections:**  
-- Collaborating with classmates  
-- Sharing ideas and learning from others  
-- Understanding the importance of teamwork  
+- Learned how to design simple database schemas.  
+- Practiced writing basic SQL queries such as `SELECT`, `INSERT`, and `UPDATE`.  
+- Understood how structured data improves efficiency in data management.  
+
 
 ---
 
-## 6️⃣ Managing Time Between Classes and Labs
+## 6️⃣ Balancing PF Labs and University Life
 **Reflections:**  
-- Balancing lectures, assignments, and self-study  
-- Learning to prioritize tasks  
-- Improving personal discipline and responsibility  
+- Managed time effectively between PF lab work and other courses.  
+- Experienced student life at UET Faisalabad and built connections with classmates.  
+- Developed consistency in practicing programming regularly.  
 
 ---
 
-## 7️⃣ Facing My First Programming Challenges
+## 7️⃣ Challenges in PF and DBS
 **Reflections:**  
-- Struggling with loops, conditions, and variables  
-- Learning to debug step by step  
-- Feeling proud after solving problems independently  
+- Faced difficulty understanding programming logic at the beginning.  
+- Found database queries and concepts challenging initially.  
+- Improved through continuous practice and seeking help from teachers and peers.  
 
 ---
 
-## 8️⃣ Discovering My Learning Style
+## 8️⃣ Growth in Technical Skills
 **Reflections:**  
-- Realizing I learn better by doing than just reading  
-- Experimenting with different study techniques  
-- Finding what works for me personally  
+- Became more confident in writing structured programs.  
+- Developed a clear understanding of how databases work.  
+- Improved analytical thinking and problem-solving abilities.  
 
 ---
 
-## 9️⃣ Small Wins That Motivated Me
+
+## 9️⃣ Motivation Through Small Achievements
 **Reflections:**  
-- Completing my first assignment successfully  
-- Understanding basic algorithms  
-- Feeling confident to tackle more difficult tasks  
+- Successfully completed PF assignments and lab exercises.  
+- Created basic database tables and executed queries.  
+- Gained confidence through gradual improvement in skills.  
 
 ---
 
-## 🔟 Looking Forward to the CE Journey
+## 🔟 Future Goals in PF and DBS
 **Reflections:**  
-- Excited to explore new technologies next semester  
-- Setting goals to improve coding and problem-solving skills  
-- Dreaming of creating my own software projects  
-
+- Aim to strengthen programming skills and learn advanced concepts.  
+- Plan to explore more complex database systems and real-world applications.  
+- Want to develop projects that combine programming and database management.  
 ---
-
-
